@@ -1,6 +1,6 @@
 # Awesome-Collaborative-Debugging-Live-Sharing
 
-# Top Collaborative Debugging & Live Sharing Ecosystem
+## Top Collaborative Debugging & Live Sharing Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Real-Time Code Sharing, Shared Debugging Sessions & Remote Pair Programming*  
