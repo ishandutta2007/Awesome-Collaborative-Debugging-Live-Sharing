@@ -58,7 +58,7 @@ Market concentration displays a **distinct bifurcated hybrid dynamic**: the core
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are the most prominent community-driven and self-hosted open-source projects for collaborative debugging, shared terminal sessions, and live pair programming—sorted in descending order by GitHub Stars_Count:
+Below are the most prominent community-driven and self-hosted open-source projects for collaborative debugging, shared terminal sessions, and live pair programming—sorted in descending order by GitHub_Stars_Count:
 
 | Project | Stars_Count | Primary Focus | Description |
 |:---|:---|:---|:---|
