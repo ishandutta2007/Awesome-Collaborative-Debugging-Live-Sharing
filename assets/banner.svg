@@ -39,7 +39,7 @@
       <feGaussianBlur stdDeviation="30" result="blur" />
     </filter>
 
-    <style>
+    <style><![CDATA[
       .title-text {
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
         font-weight: 800;
@@ -70,7 +70,7 @@
         font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
       }
 
-      /* Dynamic Animations (Background & Accents Only - Foreground Stays Crisp & Steady) */
+      /* Dynamic Animations (Background and Accents Only - Foreground Stays Crisp and Steady) */
       @keyframes pulseOrb {
         0%, 100% { transform: scale(1) translate(0, 0); opacity: 0.4; }
         50% { transform: scale(1.15) translate(20px, -15px); opacity: 0.65; }
@@ -107,7 +107,7 @@
       .floating-card-1 { animation: floatNode 5s ease-in-out infinite; }
       .floating-card-2 { animation: floatNode 5.5s ease-in-out infinite 1s; }
       .floating-card-3 { animation: floatNode 6s ease-in-out infinite 2s; }
-    </style>
+    ]]></style>
   </defs>
 
   <!-- Canvas Background -->
