@@ -58,9 +58,9 @@ Market concentration displays a **distinct bifurcated hybrid dynamic**: the core
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are the most prominent community-driven and self-hosted open-source projects for collaborative debugging, shared terminal sessions, and live pair programming—sorted in descending order by GitHub star count:
+Below are the most prominent community-driven and self-hosted open-source projects for collaborative debugging, shared terminal sessions, and live pair programming—sorted in descending order by GitHub Stars_Count:
 
-| Project | Star Count | Primary Focus | Description |
+| Project | Stars_Count | Primary Focus | Description |
 |:---|:---|:---|:---|
 | **[GoTTY](https://github.com/yudai/gotty)** | [![GoTTY Stars](https://img.shields.io/github/stars/yudai/gotty?style=social&color=white)](https://github.com/yudai/gotty/stargazers) | Terminal to Web Bridge | 🌐 Simple Golang command-line tool that turns your CLI tools and terminal sessions into a live web application, allowing remote peers to view or write to your shell over WebSockets. |
 | **[ttyd](https://github.com/tsl0922/ttyd)** | [![ttyd Stars](https://img.shields.io/github/stars/tsl0922/ttyd?style=social&color=white)](https://github.com/tsl0922/ttyd/stargazers) | High-Performance Web Terminal | ⚡ C-based lightweight terminal sharing daemon over the web with WebSockets, SSL, and full CJK / IME terminal input support for live terminal pairing. |
